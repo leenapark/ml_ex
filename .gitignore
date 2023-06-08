@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 
 ml_venv/
+ML_deploy/
+ml_datas/
+images/
+Fonts/
